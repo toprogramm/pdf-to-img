@@ -1,6 +1,8 @@
 install python
 
-```python fitzy.py```
+```bash
+python fitzy.py
+```
 
 follow instructions
 
